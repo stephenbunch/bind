@@ -1,0 +1,23 @@
+{
+  "name": "@stephenbunch/bind",
+  "version": "0.1.0",
+  "description": "A simple decorator to bind a method to its owner.",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephenbunch/bind"
+  },
+  "author": "Stephen Bunch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenbunch/bind/issues"
+  },
+  "homepage": "https://github.com/stephenbunch/bind",
+  "devDependencies": {
+    "@stephenbunch/buildpack": "^0.2.0",
+    "gulp": "^3.8.11"
+  }
+}
