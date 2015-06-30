@@ -1,6 +1,6 @@
 {
   "name": "@stephenbunch/bind",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple decorator to bind a method to its owner.",
   "main": "index.js",
   "scripts": {
